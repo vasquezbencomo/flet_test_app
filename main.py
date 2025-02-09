@@ -1,4 +1,7 @@
 import flet as ft
+import pyrebase
+import firebase_admin
+from firebase_admin import credentials, db
 
 def main(page: ft.Page):
     page.title = "Flet counter example"
