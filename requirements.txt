@@ -1,6 +1,2 @@
 flet
-Pyrebase4==4.8.0
-firebase-admin==6.6.0
-pillow==11.0.0
-async-timeout==5.0.1
-python-decouple==3.8
+
